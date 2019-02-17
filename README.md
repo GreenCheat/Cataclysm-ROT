@@ -9,6 +9,7 @@ Changes the entire game's lore:
 - Removes ALL original monsters (zombies) and monster overmap tiles (beehives, anthills, goo pits)
 - Adds robot stuff
 
-#How To Install
+# How To Install
 
-1. Insert all contents into a folder labeled 
+1. Insert all contents into a folder labeled Cata_ROTR
+2. Put folder into this directory: cataclysm/data/mods
