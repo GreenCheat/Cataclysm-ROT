@@ -1,0 +1,19 @@
+[  
+  {
+    "type": "GENERIC",
+    "id": "broken_scavenger",
+    "symbol": "%",
+    "color": "dark_gray",
+    "name": "broken android scavenger",
+    "category": "other",
+    "description": "An completely ravaged android corpse. The tattered skin that once hung onto it is almost completely ripped off.",
+    "price": 4500,
+    "material": [ "steel", "plastic" ],
+    "volume": "62500 ml",
+    "weight": 81500,
+    "bashing": 6,
+    "cutting": 6,
+    "to_hit": -5,
+    "flags": [ "TRADER_AVOID" ]
+  }
+]   

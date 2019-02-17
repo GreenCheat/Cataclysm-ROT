@@ -1,0 +1,20 @@
+[
+  {
+    "type": "MONSTER_FACTION",
+    "name": "",
+    "base_faction": "",
+	"neutral":"",
+	"friendly":"",
+    "by_mood": [ "" ]
+  },{
+    "type": "MONSTER_FACTION",
+    "name": "rebel_bot",
+    "base_faction": "",
+	"fake_skills": [ [ "gun", 1 ], [ "rifle", 1 ] ],
+	"fake_dex": 7,
+    "fake_per": 7,
+	"neutral":"animal",
+	"friendly":"",
+    "by_mood": [ "" ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Cata_ROTR",
+    "name": "Cataclysm: Rise of the Robots",
+    "authors": [ "Fool" ],
+    "description": "There was no Cataclysm. There was a robot uprising. Removes all cataclysmic features (zombies, mutants, etc) and replaces them with human-hating robots.",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  },
+  {
+    "type": "MONSTER_WHITELIST",
+    "mode": "EXCLUSIVE",
+    "categories": [ "WILDLIFE", "ROBOT" ]
+  }
+]
